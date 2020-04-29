@@ -5,11 +5,11 @@
 # Site
 title: 奔跑的骚年
 subtitle: ''
-description: '能自己解决，绝不花钱!(只是因为穷 -_-!)'
+description: '生命不息，折腾不止！！！'
 keywords:
 author: gujy
 language: zh-cn
-timezone: 'Asia/Shanghai'
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
